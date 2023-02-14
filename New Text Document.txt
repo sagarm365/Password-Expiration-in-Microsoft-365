@@ -1,0 +1,8 @@
+Configure the Password Expiration to 100 days expire. 30 days notification
+
+
+STEPS: 
+1.	Go to Microsoft 365 Admin Center  Settings  select ‘Org Settings’
+2.	Go to Security & Privacy tab  Select ‘Password Expiration policy’
+3.	Enter the value of ‘Days before password expires’ and ‘Days of notified’
+4.	Save
